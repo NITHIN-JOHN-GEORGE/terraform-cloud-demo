@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "test-tf-cloud" { 
-   bucket = "test-tf-cloud-blog-2"
+   bucket = "test-tf-cloud-blog-3"
    acl = "private"
    versioning { 
       enabled = true
